@@ -1,0 +1,7 @@
+{
+    "image": "swift:5.7",
+    "features": {
+        "ghcr.io/swift-server-community/swift-devcontainer-features/jemalloc:1": { },
+        "ghcr.io/swift-server-community/swift-devcontainer-features/swiftformat:0": { }
+    }
+}
