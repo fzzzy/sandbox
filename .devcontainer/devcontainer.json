@@ -5,9 +5,11 @@
         "version": "latest"
       },
         "ghcr.io/devcontainers/features/python:1": {
-            "version": "3.12"
+            "version": "3.13"
         },
-        "ghcr.io/devcontainers/features/node:1": {}
+        "ghcr.io/devcontainers/features/node:1": {
+          "version": "latest"
+        }
     },
     "tasks": {
       "build": "make build",
